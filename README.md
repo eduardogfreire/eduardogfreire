@@ -1,5 +1,5 @@
 ### Sobre Mim
-Olá! 👋 Sou um Analista de Dados apaixonado por transformar dados em insights acionáveis. Com mais de três anos de experiência na Zallpy Digital, atuo diretamente com o cliente Unicred do Brasil, utilizando ferramentas como Google Analytics 4, Google Tag Manager, Big Query, SQL e Python para análise e geração de insights. Estou nos estágios finais da minha formação em Data Science e Big Data pela UFPR, buscando constantemente aprimorar minhas habilidades.
+Olá! 👋 Sou um Analista de Dados apaixonado por transformar dados em insights acionáveis. Com mais de três anos de experiência, utilizando ferramentas como Google Analytics 4, Google Tag Manager, Big Query, SQL e Python para análise e geração de insights. Estou nos estágios finais da minha formação em Data Science e Big Data pela UFPR e no curso de Engenheiro de dados na escola Harve.
 
 Minhas Habilidades:
 Linguagens e Ferramentas: Python, SQL
